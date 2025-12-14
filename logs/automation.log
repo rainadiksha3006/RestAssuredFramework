@@ -46,3 +46,21 @@
 21:56:05.598 [main] INFO  api.test.UserTests2 - ******************User is successfully updated******************
 21:56:05.601 [main] INFO  api.test.UserTests2 - ******************Deleting User******************
 21:56:10.018 [main] INFO  api.test.UserTests2 - ******************User is successfully deleted******************
+17:07:20.831 [main] INFO  api.test.StoreTests - **********************Placing and order**********************
+17:07:28.431 [main] INFO  api.test.StoreTests - **********************order placed for purchasing the pet**********************
+17:07:28.454 [main] INFO  api.test.StoreTests - **********************Find purchase order by id**********************
+17:07:29.748 [main] INFO  api.test.StoreTests - **********************Purchase order details retrieved successfully**********************
+17:07:29.759 [main] INFO  api.test.StoreTests - **********************Delete purchase order by id**********************
+17:07:30.928 [main] INFO  api.test.StoreTests - **********************Purchase order deleted successfully**********************
+17:10:30.101 [main] INFO  api.test.StoreTests - **********************Placing and order**********************
+17:10:40.017 [main] INFO  api.test.StoreTests - **********************order placed for purchasing the pet**********************
+17:10:40.070 [main] INFO  api.test.StoreTests - **********************Find purchase order by id**********************
+17:10:41.352 [main] INFO  api.test.StoreTests - **********************Purchase order details retrieved successfully**********************
+17:10:41.382 [main] INFO  api.test.StoreTests - **********************Delete purchase order by id**********************
+17:10:42.532 [main] INFO  api.test.StoreTests - **********************Purchase order deleted successfully**********************
+17:12:58.610 [main] INFO  api.test.StoreTests - **********************Placing and order**********************
+17:13:07.199 [main] INFO  api.test.StoreTests - **********************order placed for purchasing the pet**********************
+17:13:07.249 [main] INFO  api.test.StoreTests - **********************Find purchase order by id**********************
+17:13:08.556 [main] INFO  api.test.StoreTests - **********************Purchase order details retrieved successfully**********************
+17:13:08.560 [main] INFO  api.test.StoreTests - **********************Delete purchase order by id**********************
+17:13:09.741 [main] INFO  api.test.StoreTests - **********************Purchase order deleted successfully**********************

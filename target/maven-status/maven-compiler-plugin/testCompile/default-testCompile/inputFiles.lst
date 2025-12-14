@@ -1,8 +1,11 @@
 C:\workspaces\Sep2025\RestAssuredFramework\src\test\java\api\endpoints\Routes.java
+C:\workspaces\Sep2025\RestAssuredFramework\src\test\java\api\endpoints\StoreEndpoints.java
 C:\workspaces\Sep2025\RestAssuredFramework\src\test\java\api\endpoints\UserEndpoints.java
 C:\workspaces\Sep2025\RestAssuredFramework\src\test\java\api\endpoints\UserEndpoints2.java
+C:\workspaces\Sep2025\RestAssuredFramework\src\test\java\api\payload\Store.java
 C:\workspaces\Sep2025\RestAssuredFramework\src\test\java\api\payload\User.java
 C:\workspaces\Sep2025\RestAssuredFramework\src\test\java\api\test\DDTests.java
+C:\workspaces\Sep2025\RestAssuredFramework\src\test\java\api\test\StoreTests.java
 C:\workspaces\Sep2025\RestAssuredFramework\src\test\java\api\test\UserTests.java
 C:\workspaces\Sep2025\RestAssuredFramework\src\test\java\api\test\UserTests2.java
 C:\workspaces\Sep2025\RestAssuredFramework\src\test\java\api\utilities\DataProviders.java
